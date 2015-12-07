@@ -1,8 +1,8 @@
 # file-upload-with-angularjs-and-nodejs
 File Upload using Angular and Node
 
-Complete Tutorial: 
-Demo Link
+Complete Tutorial: http://code.ciphertrick.com/2015/12/07/file-upload-with-angularjs-and-nodejs/ </br>
+Demo Link: https://youtu.be/6XRi--KHN7U
 
 ##Quick Setup
 <ul>
